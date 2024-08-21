@@ -16,7 +16,9 @@ body {
     justify-content: center;
     align-items: center;
     padding: 40px 16px;
+    
 }
+
 
 .card {
     position: sticky;
@@ -27,9 +29,9 @@ body {
     padding: 16px;
     margin:  56px 24px;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 .card-image {
@@ -66,6 +68,7 @@ p {
     margin-bottom: 8px;
 }
 
+
 /* .socials {
     display: flex;
     align-items: center;
@@ -92,7 +95,7 @@ button i {
 }
 
 /* Social media colors */
-button.github {
+/* button.github {
     background-color: #24292e;
 } 
 
@@ -102,4 +105,4 @@ button.twitter {
 
 button.pinterest {
     background-color: #d3263a;
-}  */
+}  */ 
