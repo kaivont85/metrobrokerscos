@@ -16,17 +16,20 @@ body {
     justify-content: center;
     align-items: center;
     padding: 40px 16px;
+    background-image: url("./images/106\ N\ Tejon\ St\ Colorado-large-020-2-01MetroOffice2017BW-1401x1000-72dpi.jpg");
+    background-size:auto
+    filter: blur(15px);
     
 }
 
 
 .card {
-    position: sticky;
+    position:sticky;
     width: 300px;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.15);
-    padding: 16px;
+    padding: 0px;
     margin:  56px 24px;
     display: flex;
     justify-content: center;
